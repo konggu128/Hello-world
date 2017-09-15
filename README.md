@@ -1,7 +1,6 @@
-# Hello-world
+# Python Tips
 
-* list itme 1
-* list item 2
+http://viziblr.com/news/2012/4/21/step-by-step-installing-pandas-on-windows-7-from-pypi-with-e.html
 
-**add 
-**dfi
+install numpy;
+
